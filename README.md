@@ -11,7 +11,7 @@
 
 - 🌱 Technologies to learn in the future: **AWS, Websocket, Docker**
 
-- 👨‍💻 All of my projects are available at my [portfolio website](https://rianmiguelengracia.vercel.app/)
+- 👨‍💻 My highlighted projects are available at my [portfolio website](https://rianmiguelengracia.vercel.app/) and will be updated soon
 
 - 📫 How to reach me **rianengracia@gmail.com**
 
