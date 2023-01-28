@@ -7,15 +7,13 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riandev25" alt="riandev25" /></a> </p> -->
 
-- 🔭 I’m currently working on **Full Stack Project Management Web Application**
+- 🔭 I’m currently working on a personal project: **A Full Stack Project Management Web Application**
 
 - 🌱 Technologies to learn in the future: **AWS, Websocket, Docker**
 
 - 👨‍💻 All of my projects are available at my [portfolio website](https://rianmiguelengracia.vercel.app/)
 
 - 📫 How to reach me **rianengracia@gmail.com**
-
-- ⚡ Fun fact: **Like coding very much**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
