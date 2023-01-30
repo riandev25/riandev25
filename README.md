@@ -1,6 +1,6 @@
 ![](https://github.com/riandev25/riandev25/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Rian Miguel Engracia</h1>
-<h3 align="center">Frontend Developer | ReactJS | NextJS | ExpressJS | Typescript</h3>
+<h3 align="center">Frontend Developer | Full Stack Developer | ReactJS | NextJS | ExpressJS | Typescript</h3>
 <img  align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3792792/programmer.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riandev25&label=Profile%20views&color=0e75b6&style=flat" alt="riandev25" /> </p>
