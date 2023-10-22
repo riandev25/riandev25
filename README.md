@@ -1,19 +1,19 @@
-![](https://github.com/riandev25/riandev25/blob/main/banner.png)
-<h1 align="center">Hi 👋, I'm Rian Miguel Engracia</h1>
-<h3 align="center">Frontend Developer | Full Stack Developer | ReactJS | NextJS | ExpressJS | Typescript</h3>
+<!-- ![](https://github.com/riandev25/riandev25/blob/main/banner.png) -->
+<!-- <h1 align="center">Hi 👋, I'm Rian Miguel Engracia</h1> -->
+<h3 align="center">Full Stack Developer</h3>
 <img  align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3792792/programmer.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=riandev25&label=Profile%20views&color=0e75b6&style=flat" alt="riandev25" /> </p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=riandev25" alt="riandev25" /></a> </p> -->
 
-- 🔭 I’m currently working on a personal project: **A Full Stack Project Management Web Application**
+<!-- - 🔭 I’m currently working on a personal project: **A Full Stack Project Management Web Application**
 
 - 🌱 Technologies to learn in the future: **AWS, Websocket, Docker**
 
 - 👨‍💻 My highlighted projects are available at my [portfolio website](https://rianmiguelengracia.vercel.app/) and will be updated soon
 
-- 📫 How to reach me **rianengracia@gmail.com**
+- 📫 How to reach me **rianengracia@gmail.com** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
