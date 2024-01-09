@@ -1,5 +1,4 @@
 ![Header](./readme-banner.png)
-<br><br>
 
 ### Socials: 
 <a href="https://www.linkedin.com/in/rian-miguel-engracia/"><img src="https://img.shields.io/badge/Rian_Miguel_Engracia-blue?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
