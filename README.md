@@ -9,7 +9,6 @@
 <img src="https://img.shields.io/badge/rian.engracia@gmail.com-blue?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a>
 
 ### What I'm working at the moment:
-- Software Engineer
 - Learning .NET Ecosystem
 - Looking for connections in the web development industry
 - Currently looking for a role, preferably Frontend/Backend Developer
