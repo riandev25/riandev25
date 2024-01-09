@@ -2,7 +2,7 @@
 <br><br>
 
 ### Socials: 
-<a href="https://m.youtube.com/carlcastanas"><img src="https://img.shields.io/badge/Rian_Miguel_Engracia-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/rian-miguel-engracia/"><img src="https://img.shields.io/badge/Rian_Miguel_Engracia-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 ### Reach me at:
 <a href="mailto: rian.engracia@gmail.com">
