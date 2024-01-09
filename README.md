@@ -11,7 +11,7 @@
 ### What I'm working at the moment:
 - Learning .NET Ecosystem
 - Looking for connections in the web development industry
-- Currently looking for a role, preferably Frontend/Backend Developer
+- Currently looking for work, preferably Frontend/Backend/Full Stack Developer
 
 ------------------------------------------- 
 
